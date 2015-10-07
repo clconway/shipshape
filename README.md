@@ -77,10 +77,7 @@ Or you can install bison, clang, flex, and go (on Ubuntu >=14.10) using apt:
 $ sudo apt-get install bison clang flex golang openjdk-8-jdk openjdk-8-source
 ```
 
-To run tests for Shipshape you also need the following tool:
-
-* Android `lint` (part of the [Android SDK](https://developer.android.com/sdk/index.html)), install in your
-system `PATH`.
+To run tests for Shipshape you also need Android `lint` (part of the [Android SDK](https://developer.android.com/sdk/index.html)) installed in your system `PATH`.
 
 ## Building ##
 
