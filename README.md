@@ -48,6 +48,22 @@ Get help!
 $ ./shipshape --help
 ```
 
+## Analyzers ##
+
+The following analyzers are bundled with Shipshape:
+
+* [Error Prone](https://github.com/google/error-prone) (category: `ErrorProne`)
+* [go vet](https://godoc.org/golang.org/x/tools/cmd/vet)
+* [JSHint](http://www.jshint.com/)
+* [PyLint](http://www.pylint.org/ )
+
+### Contributed analyzers ###
+
+The following analyzers were contributed by external developers:
+
+* [AndroidLint](http://tools.android.com/tips/lint)
+* [CTADetector](http://mir.cs.illinois.edu/~yulin2/CTADetector) - Yu Lin (University of Illinois at Urbana-Champaign)
+* [ExtendJ](https://github.com/google/simplecfg) - Jesper Öqvist (Lund University)
 
 # Run Shipshape from Source #
 
